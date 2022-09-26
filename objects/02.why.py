@@ -21,7 +21,7 @@ print('Me llamo', dog_1["name"], "y tengo", dog_1["age"], "años")
 
 # Searía más entendible si pusieramos tener el mismo resultado con un codigo más declarativo, algo como:
 
-# print(dog_1.say_name())
+print(dog_1.say_name())
 
 # Entenderemos los conceptos necesarios para pasar de un código secuencial a uno en el que podamos crear objetos que respondan a sus propios métodos. 
 
